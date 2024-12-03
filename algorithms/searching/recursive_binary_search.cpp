@@ -29,7 +29,7 @@ int bsearch(const vector<int>& array, int low, int high, int target) {
     if (array[mid] < target) {
         return bsearch(array, mid + 1, high, target); // Search the upper half
     } else {
-        return bsearch(array, low, mid, target); // Search the lower half
+        return bsearch(array, low, mid - 1, target); // Search the lower half
     }
 }
 
