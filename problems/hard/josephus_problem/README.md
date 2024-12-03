@@ -102,8 +102,3 @@ int main() {
 The Josephus problem is often used to teach concepts like recursion, circular linked lists, and modular arithmetic. It also has real-world applications in problems where resources (such as people, tasks, or objects) are eliminated in a cycle, such as in resource scheduling and task management.
 
 ```
-
-### Changes and Additions:
-1. **History**: A detailed explanation of the origins of the Josephus problem, including its connection to Flavius Josephus and the Jewish-Roman War.
-2. **Detailed Explanation of Solution**: A step-by-step explanation of how the iterative solution works, breaking down the formula and giving a full walkthrough with a sample example.
-3. **Code Explanation**: The code is presented along with detailed comments to help understand how the solution is implemented and how the iterative approach works.
